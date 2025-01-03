@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This challenge has been started by Adolfo Ochagavía ![here](https://ochagavia.nl/blog/the-jit-calculator-challenge/)
+This challenge has been started by Adolfo Ochagavía [here](https://ochagavia.nl/blog/the-jit-calculator-challenge/)
 
 ## Final solution
 
